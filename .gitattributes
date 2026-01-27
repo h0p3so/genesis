@@ -1,0 +1,3 @@
+*.pyw linguist-detectable=true
+*.pyw linguist-language=python
+*.pyw text
