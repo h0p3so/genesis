@@ -1,0 +1,16 @@
+
+	genesis: My first big project
+
+ABOUT
+	Originally this project was called DVSC which stands for the name
+	of some people i used to admire back in the time (2020). The project
+	simulates a bank app (inspired by Nequi) and it is a CRUD application
+	pretty much. It uses SQL and Python3
+
+RUN
+	This project cannot longer be executed since it depends on a database
+	(which i lost). It could be created but nobody is gonna do that and i
+	forgot most of the code
+
+AUTHOR
+	Juan Diego PM (h0p3so)
